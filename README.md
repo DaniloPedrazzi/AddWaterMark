@@ -8,7 +8,7 @@ The AddWaterMark tool is for adding a watermark (usually a logo) on large amount
 
 ## How to Use
 
-First you need to download it, you can find the lastest release [here]('https://github.com/xCUELHO/AddWaterMark/releases').
+First you need to download it, you can find the lastest release [here](https://github.com/xCUELHO/AddWaterMark/releases/).
 
 Once you have download it, you need to intall the dependencies of the project, you do this by running
 ```bash
